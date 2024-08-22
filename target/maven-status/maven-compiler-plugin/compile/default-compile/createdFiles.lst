@@ -1,0 +1,9 @@
+com\models\Comments.class
+com\resource\registor\AppConfig.class
+com\resources\postResource.class
+com\resources\commentResource.class
+com\resources\hello.class
+com\resources\userResource.class
+com\dao\DataAccessObject.class
+com\models\Posts.class
+com\models\Users.class
